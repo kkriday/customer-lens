@@ -1,0 +1,108 @@
+[
+  {
+    "question": "What did Lucas Garcia report about Beacon Analytics (Feature Request)? Details: Feature Request",
+    "expected_ticket_id": "T-2153",
+    "keywords": [
+      "Beacon",
+      "Feature"
+    ]
+  },
+  {
+    "question": "What did Mila Murphy report about Cobalt Storage (Performance)? Details: Performance",
+    "expected_ticket_id": "T-2033",
+    "keywords": [
+      "Cobalt",
+      "Performance"
+    ]
+  },
+  {
+    "question": "What did Kenji Lindqvist report about Drift Mail (Outage)? Details: ERR-3171.",
+    "expected_ticket_id": "T-2209",
+    "keywords": [
+      "Drift",
+      "Outage",
+      "ERR-3171"
+    ]
+  },
+  {
+    "question": "What did Omar Sharma report about Drift Mail (Refund)? Details: $1660.99 INV-80202.",
+    "expected_ticket_id": "T-2187",
+    "keywords": [
+      "Drift",
+      "Refund",
+      "1660.99",
+      "INV-80202"
+    ]
+  },
+  {
+    "question": "What did Raj Weber report about Atlas CRM (How-to)? Details: ERR-6463",
+    "expected_ticket_id": "T-2344",
+    "keywords": [
+      "Atlas",
+      "How-to",
+      "ERR-6463"
+    ]
+  },
+  {
+    "question": "What did Sofia Kim report about Ember Chat (Security)? Details: Security",
+    "expected_ticket_id": "T-2337",
+    "keywords": [
+      "Ember",
+      "Security"
+    ]
+  },
+  {
+    "question": "What did Mila Murphy report about Drift Mail (Performance)? Details: ERR-7797",
+    "expected_ticket_id": "T-2047",
+    "keywords": [
+      "Drift",
+      "Performance",
+      "ERR-7797"
+    ]
+  },
+  {
+    "question": "What did Liam Patel report about Cobalt Storage (Billing)? Details: INV-80323 $148.99",
+    "expected_ticket_id": "T-2204",
+    "keywords": [
+      "Cobalt",
+      "Billing",
+      "INV-80323",
+      "148.99"
+    ]
+  },
+  {
+    "question": "What did Omar Kim report about Drift Mail (Bug)? Details: ERR-9381",
+    "expected_ticket_id": "T-2371",
+    "keywords": [
+      "Drift",
+      "Bug",
+      "ERR-9381"
+    ]
+  },
+  {
+    "question": "What did Aiden Patel report about Ember Chat (Bug)? Details: ERR-8167",
+    "expected_ticket_id": "T-2072",
+    "keywords": [
+      "Ember",
+      "Bug",
+      "ERR-8167"
+    ]
+  },
+  {
+    "question": "What did Elena Weber report about Cobalt Storage (Feature Request)? Details: Feature Request",
+    "expected_ticket_id": "T-2121",
+    "keywords": [
+      "Cobalt",
+      "Feature"
+    ]
+  },
+  {
+    "question": "What did Maya Garcia report about Ember Chat (Bug)? Details: ERR-8259",
+    "expected_ticket_id": "T-2058",
+    "keywords": [
+      "Ember",
+      "Bug",
+      "ERR-8259"
+    ]
+  }
+]

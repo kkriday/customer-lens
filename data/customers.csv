@@ -1,0 +1,61 @@
+customer_id,name,email,company,tier,country,joined_at
+C-1001,Noah Sharma,noah.sharma@example.com,Soylent Corp,Premium,Germany,2025-04-22
+C-1002,Priya Patel,priya.patel@example.com,Massive Dynamic,Enterprise,Canada,2024-04-11
+C-1003,Nora Garcia,nora.garcia@example.com,Northwind Traders,Standard,Germany,2025-04-12
+C-1004,Kai Sharma,kai.sharma@example.com,Stark Logistics,Standard,Australia,2025-04-25
+C-1005,Ethan Silva,ethan.silva@example.com,Northwind Traders,Standard,Australia,2024-12-23
+C-1006,Elena Nguyen,elena.nguyen@example.com,Acme Retail,Premium,Canada,2025-09-03
+C-1007,Aiden Patel,aiden.patel@example.com,Initech,Premium,India,2023-09-02
+C-1008,Liam Weber,liam.weber@example.com,Stark Logistics,Standard,Australia,2025-09-17
+C-1009,Mila Murphy,mila.murphy@example.com,Massive Dynamic,Enterprise,Brazil,2024-04-24
+C-1010,Sofia Kim,sofia.kim@example.com,Northwind Traders,Enterprise,Germany,2023-10-07
+C-1011,Raj Kim,raj.kim@example.com,Acme Retail,Standard,Australia,2025-02-25
+C-1012,Ethan Ali,ethan.ali@example.com,Fabrikam Inc,Premium,Brazil,2025-05-06
+C-1013,Elena Kim,elena.kim@example.com,Wayne Foods,Enterprise,UK,2024-06-08
+C-1014,Omar Haddad,omar.haddad@example.com,Hooli Media,Premium,India,2024-02-20
+C-1015,Mila Khan,mila.khan@example.com,Massive Dynamic,Premium,USA,2025-04-16
+C-1016,Liam Tanaka,liam.tanaka@example.com,Umbrella Health,Premium,Canada,2025-05-04
+C-1017,Dev Tanaka,dev.tanaka@example.com,Acme Retail,Enterprise,Japan,2024-10-27
+C-1018,Ethan Nguyen,ethan.nguyen@example.com,Globex,Standard,Germany,2023-11-05
+C-1019,Mila Das,mila.das@example.com,Globex,Enterprise,Australia,2024-04-18
+C-1020,Aiden Ali,aiden.ali@example.com,Acme Retail,Standard,Japan,2025-09-04
+C-1021,Liam Patel,liam.patel@example.com,Fabrikam Inc,Enterprise,UK,2023-09-17
+C-1022,Nora Kim,nora.kim@example.com,Umbrella Health,Premium,Japan,2024-06-13
+C-1023,Elena Das,elena.das@example.com,Northwind Traders,Enterprise,Canada,2024-01-08
+C-1024,Mila Silva,mila.silva@example.com,Massive Dynamic,Premium,Canada,2025-02-09
+C-1025,Nora Haddad,nora.haddad@example.com,Hooli Media,Standard,India,2024-07-12
+C-1026,Kenji Lindqvist,kenji.lindqvist@example.com,Contoso Labs,Enterprise,India,2023-07-29
+C-1027,Kai Rossi,kai.rossi@example.com,Fabrikam Inc,Premium,UK,2024-06-02
+C-1028,Kai Sharma,kai.sharma@example.com,Wayne Foods,Premium,Japan,2025-11-17
+C-1029,Noah Ali,noah.ali@example.com,Globex,Standard,USA,2025-04-04
+C-1030,Dev Kim,dev.kim@example.com,Contoso Labs,Enterprise,Japan,2023-08-24
+C-1031,Maya Das,maya.das@example.com,Fabrikam Inc,Standard,Japan,2024-05-23
+C-1032,Kenji Silva,kenji.silva@example.com,Stark Logistics,Enterprise,Australia,2025-05-04
+C-1033,Mila Rossi,mila.rossi@example.com,Soylent Corp,Premium,Australia,2024-01-19
+C-1034,Zoe Weber,zoe.weber@example.com,Stark Logistics,Premium,Canada,2025-03-28
+C-1035,Omar Kim,omar.kim@example.com,Initech,Standard,Germany,2024-04-13
+C-1036,Omar Sharma,omar.sharma@example.com,Contoso Labs,Enterprise,USA,2025-04-16
+C-1037,Maya Garcia,maya.garcia@example.com,Initech,Standard,Germany,2025-02-24
+C-1038,Ivy Rossi,ivy.rossi@example.com,Stark Logistics,Standard,Japan,2025-04-02
+C-1039,Ivy Reyes,ivy.reyes@example.com,Acme Retail,Standard,Canada,2024-02-01
+C-1040,Nora Ali,nora.ali@example.com,Umbrella Health,Premium,Japan,2023-11-21
+C-1041,Liam Patel,liam.patel@example.com,Northwind Traders,Premium,Brazil,2023-09-09
+C-1042,Noah Khan,noah.khan@example.com,Acme Retail,Standard,Japan,2025-07-16
+C-1043,Nora Haddad,nora.haddad@example.com,Globex,Premium,Germany,2025-09-20
+C-1044,Ethan Das,ethan.das@example.com,Contoso Labs,Standard,USA,2025-09-02
+C-1045,Omar Haddad,omar.haddad@example.com,Umbrella Health,Premium,Japan,2025-05-02
+C-1046,Aiden Garcia,aiden.garcia@example.com,Fabrikam Inc,Premium,USA,2024-11-02
+C-1047,Elena Weber,elena.weber@example.com,Globex,Premium,Japan,2025-07-01
+C-1048,Sofia Murphy,sofia.murphy@example.com,Acme Retail,Standard,USA,2023-11-02
+C-1049,Lucas Garcia,lucas.garcia@example.com,Northwind Traders,Enterprise,Japan,2024-07-10
+C-1050,Kai Haddad,kai.haddad@example.com,Northwind Traders,Enterprise,Canada,2025-05-30
+C-1051,Maya Kim,maya.kim@example.com,Massive Dynamic,Standard,Australia,2025-08-06
+C-1052,Dev Khan,dev.khan@example.com,Wayne Foods,Enterprise,USA,2024-03-12
+C-1053,Maya Reyes,maya.reyes@example.com,Massive Dynamic,Enterprise,Brazil,2025-03-14
+C-1054,Sofia Tanaka,sofia.tanaka@example.com,Acme Retail,Premium,Australia,2025-07-25
+C-1055,Raj Weber,raj.weber@example.com,Initech,Standard,USA,2024-08-24
+C-1056,Ana Patel,ana.patel@example.com,Contoso Labs,Enterprise,Germany,2024-07-06
+C-1057,Elena Nguyen,elena.nguyen@example.com,Initech,Standard,Germany,2024-11-23
+C-1058,Raj Haddad,raj.haddad@example.com,Hooli Media,Enterprise,India,2024-03-20
+C-1059,Kai Sharma,kai.sharma@example.com,Massive Dynamic,Enterprise,India,2024-01-27
+C-1060,Noah Nguyen,noah.nguyen@example.com,Globex,Standard,Canada,2023-11-07

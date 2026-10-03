@@ -1,0 +1,32 @@
+services:
+  api:
+    build: .
+    image: customerlens:0.1.0
+    ports:
+      - "8000:8000"
+    environment:
+      LLM_BACKEND: ${LLM_BACKEND:-extractive}
+      LLM_BASE_URL: ${LLM_BASE_URL:-}
+      LLM_API_KEY: ${LLM_API_KEY:-}
+      LLM_MODEL: ${LLM_MODEL:-gpt-4o-mini}
+      # Legacy Azure OpenAI backend (optional):
+      # AZURE_OPENAI_ENDPOINT: ${AZURE_OPENAI_ENDPOINT}
+      # AZURE_OPENAI_API_KEY: ${AZURE_OPENAI_API_KEY}
+      # AZURE_OPENAI_DEPLOYMENT: ${AZURE_OPENAI_DEPLOYMENT}
+    restart: unless-stopped
+
+  dashboard:
+    build: .
+    image: customerlens:0.1.0
+    ports:
+      - "8501:8501"
+    environment:
+      LLM_BACKEND: ${LLM_BACKEND:-extractive}
+      LLM_BASE_URL: ${LLM_BASE_URL:-}
+      LLM_API_KEY: ${LLM_API_KEY:-}
+      LLM_MODEL: ${LLM_MODEL:-gpt-4o-mini}
+    command: ["streamlit", "run", "dashboard.py",
+              "--server.port=8501", "--server.address=0.0.0.0"]
+    depends_on:
+      - api
+    restart: unless-stopped
